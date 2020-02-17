@@ -1,0 +1,219 @@
+{
+  "songs": [
+    {
+      "nameSinger": "Slipknot",
+      "song": "Psychosocial",
+      "ganre": "Heavy metal",
+      "year": "2001",
+      "id": 1
+    },
+    {
+      "nameSinger": "Slipknot",
+      "song": "Wicked game acoustic",
+      "ganre": "Heavy metal",
+      "year": "2007",
+      "id": 2
+    },
+    {
+      "nameSinger": "Slipknot",
+      "song": "Duality",
+      "ganre": "Heavy metal",
+      "year": "2007",
+      "id": 3
+    },
+    {
+      "nameSinger": "Slipknot",
+      "song": "Red Flag",
+      "ganre": "Heavy metal",
+      "year": "2008",
+      "id": 4
+    },
+    {
+      "nameSinger": "Slipknot",
+      "song": "Gently",
+      "ganre": "Heavy metal",
+      "year": "2005",
+      "id": 5
+    },
+
+    {
+      "nameSinger": "The Black Keys",
+      "song": "Lonely Boy",
+      "ganre": "Blues-rock",
+      "year": "2011",
+      "id": 6
+    },
+    {
+      "nameSinger": "The Black Keys",
+      "song": "Weight of Love",
+      "ganre": "Blues-rock",
+      "year": "2014",
+      "id": 7
+    },
+    {
+      "nameSinger": "The Black Keys",
+      "song": "Weight of Love",
+      "ganre": "Blues-rock",
+      "year": "2014",
+      "id": 8
+    },
+    {
+      "nameSinger": "The Black Keys",
+      "song": "Keep Me",
+      "ganre": "Blues-rock",
+      "year": "2014",
+      "id": 9
+    },
+    {
+      "nameSinger": "The Black Keys",
+      "song": " Little Black Submarines",
+      "ganre": "Blues-rock",
+      "year": "2012",
+      "id": 10
+    },
+
+    {
+      "nameSinger": "The Neighbourhood",
+      "song": "Scary Love",
+      "ganre": "Alternative/Indie",
+      "year": "2016",
+      "id": 11
+    },
+    {
+      "nameSinger": "The Neighbourhood",
+      "song": "Compass",
+      "ganre": "Alternative/Indie",
+      "year": "2016",
+      "id": 12
+    },
+    {
+      "nameSinger": "The Neighbourhood",
+      "song": "You Get Me So High",
+      "ganre": "Alternative/Indie",
+      "year": "2017",
+      "id": 13
+    },
+    {
+      "nameSinger": "The Neighbourhood",
+      "song": "Stuck with Me",
+      "ganre": "Alternative/Indie",
+      "year": "2015",
+      "id": 14
+    },
+    {
+      "nameSinger": "The Neighbourhood",
+      "song": "Dust",
+      "ganre": "Alternative/Indie",
+      "year": "2017",
+      "id": 15
+    },
+
+    {
+      "nameSinger": "Порнофильмы",
+      "song": "Это пройдёт",
+      "ganre": "Punk Rock",
+      "year": "2020",
+      "id": 16
+    },
+    {
+      "nameSinger": "Порнофильмы",
+      "song": "Система",
+      "ganre": "Punk Rock",
+      "year": "2017",
+      "id": 17
+    },
+    {
+      "nameSinger": "Порнофильмы",
+      "song": "Я так соскучился",
+      "ganre": "Punk Rock",
+      "year": "2017",
+      "id": 18
+    },
+    {
+      "nameSinger": "Порнофильмы",
+      "song": "Молодая семья",
+      "ganre": "Punk Rock",
+      "year": "2015",
+      "id": 19
+    },
+    {
+      "nameSinger": "Порнофильмы",
+      "song": "Приезжай!",
+      "ganre": "Punk Rock",
+      "year": "2015",
+      "id": 20
+    },
+
+    {
+      "nameSinger": "Mumiy Troll",
+      "song": "Владивосток 2000",
+      "ganre": "Rock",
+      "year": "2014",
+      "id": 21
+    },
+    {
+      "nameSinger": "Mumiy Troll",
+      "song": "Медведица",
+      "ganre": "Rock",
+      "year": "2014",
+      "id": 22
+    },
+    {
+      "nameSinger": "Mumiy Troll",
+      "song": "Девочка",
+      "ganre": "Rock",
+      "year": "2018",
+      "id": 23
+    },
+    {
+      "nameSinger": "Mumiy Troll",
+      "song": "Дельфины",
+      "ganre": "Rock",
+      "year": "2018",
+      "id": 24
+    },
+    {
+      "nameSinger": "Mumiy Troll",
+      "song": "Лето без интернета",
+      "ganre": "Rock",
+      "year": "2019",
+      "id": 25
+    },
+
+    {
+      "nameSinger": "Би-2",
+      "song": "Моя Любовь",
+      "ganre": "Rock",
+      "year": "2001",
+      "id": 26
+    },
+    {
+      "nameSinger": "Би-2",
+      "song": "Зажигать",
+      "ganre": "Rock",
+      "year": "2001",
+      "id": 27
+    },
+    {
+      "nameSinger": "Би-2",
+      "song": "Мой-рок-н-ролл",
+      "ganre": "Rock",
+      "year": "2001",
+      "id": 28
+    },
+    {
+      "nameSinger": "Би-2",
+      "song": "Её глаза",
+      "ganre": "Rock",
+      "year": "2017",
+      "id": 29
+    },
+    {
+      "nameSinger": "Би-2",
+      "song": "Школа танцев",
+      "ganre": "Rock",
+      "year": "2017",
+      "id": 30
+    }
+  ]
+}

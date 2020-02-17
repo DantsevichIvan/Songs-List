@@ -1,0 +1,9 @@
+.container{
+    margin-left: 15px;
+}
+.page{
+    padding: 0 2px;
+}
+.selectedPage{
+    color: red;
+}

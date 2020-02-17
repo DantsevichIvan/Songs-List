@@ -1,0 +1,9 @@
+.container{
+    margin-right: 15px;
+}
+.quartity{
+    padding: 0 2px;
+}
+.selectedAmount{
+    color: red;
+}
